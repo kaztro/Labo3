@@ -1,13 +1,24 @@
 
 tr.par td:nth-child(2n) {
     background-color: black;
+    color: white;
 }
 
 tr.impar td:nth-child(2n+1) {
     background-color: black;
+    color: white;
 }
 
 td {
     width: 100px;
     height: 100px;
+}
+
+tr {
+    text-align: center;
+}
+
+table tr td div {
+    visibility: hidden;
+    
 }
