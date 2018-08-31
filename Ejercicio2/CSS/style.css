@@ -22,3 +22,8 @@ table tr td div {
     visibility: hidden;
     
 }
+
+td:hover div {
+    visibility: visible;
+    color: rgba(255, 0, 0, 0.5);
+}
