@@ -1,0 +1,13 @@
+
+tr.par td:nth-child(2n) {
+    background-color: black;
+}
+
+tr.impar td:nth-child(2n+1) {
+    background-color: black;
+}
+
+td {
+    width: 100px;
+    height: 100px;
+}
