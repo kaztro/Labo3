@@ -1,0 +1,36 @@
+header {
+    background: #232323;
+    margin: 0;
+    text-align: center;
+    font-size: 2em;
+    color: gray;
+    font-family: 'Anton', sans-serif;
+    text-transform: uppercase;
+    display: block;
+}
+
+img {
+    margin: 1.5em auto;
+    display: block;
+}
+
+p {
+    font-family: 'Crimson Text', serif;
+    font-size: 1.4em;
+}
+
+a:link {
+    font-family: 'Crimson Text', serif;
+    font-size: 1.4em;
+    text-decoration: none;
+}
+
+article {
+    background: whitesmoke;
+}
+
+footer {
+    background: #232323;
+    color: white;
+    text-align: center;
+}
