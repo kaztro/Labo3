@@ -1,0 +1,107 @@
+input[type="button"] {
+    font-size: 1em;
+    margin: 0.5em;
+    padding: 1em;
+    border-radius: 0.5em;
+    border: 0;
+}
+
+#peque {
+    font-size: 0.7rem;
+}
+
+#grandote {
+    font-size: 1.3rem;
+}
+
+.colores {
+    color: white;
+}
+
+#esme {
+    background: #57d68d;
+}
+
+#ciel {
+    background: #5cace2;
+}
+
+#amat {
+    background: #ae7ac4;
+}
+
+#asfa {
+    background: #5c6d7e;
+}
+
+#topa {
+    background: #ea974e;
+}
+
+#rub {
+    background: #eb6f62;
+}
+
+.bordeado {
+    background: transparent;
+}
+
+#bs {
+    border: gray 2px solid;
+    color: gray;
+}
+
+#be {
+    border: #57d68d 2px solid;
+    color: #57d68d;
+}
+
+#bc {
+    border: #5cace2 2px solid;
+    color: #5cace2;
+}
+
+#ba {
+    border: 2px solid #ae7ac4;
+    color: #ae7ac4;
+}
+
+#bas {
+    border: #5c6d7e 2px solid;
+    color: #5c6d7e;
+}
+
+#bt {
+    border: #ea974e 2px solid;
+    color: #ea974e;
+}
+
+#br {
+    border: #eb6f62 2px solid;
+    color: #eb6f62;
+}
+
+#col {
+    background: #5c6d7e;
+    font-size: 1.3rem;
+    color: white;
+}
+
+#cob  {
+    border: #5cace2 2px solid;
+    color: #5cace2;
+    background: transparent;
+}
+
+#cop {
+    background: #57d68d;
+    font-size: 0.7rem;
+    color: white;
+}
+
+#cog {
+    border: #eb6f62 2px solid;
+    color: #eb6f62;
+    background: transparent;
+    font-size: 1.3rem;
+}
